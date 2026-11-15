@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+python-multipart
+pdf2docx==0.5.13
